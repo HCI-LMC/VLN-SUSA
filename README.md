@@ -102,13 +102,16 @@ SOON: [https://eval.ai/web/challenges/challenge-page/1275/overview](https://eval
 ## 7. Citation
 
 ```bibtex
-@article{zhang2024agent,
-  title={Agent Journey Beyond RGB: Hierarchical Semantic-Spatial Representation Enrichment for Vision-and-Language Navigation},
-  author={Zhang, Xuesong and Xu, Yunbo and Li, Jia and Liu Ruonan and Hu, Zhenzhen},
-  journal={arXiv preprint arXiv:2412.06465},
-  year={2025}
+@inproceedings{zhang2026agent,
+  title={Agent journey beyond rgb: Hierarchical semantic-spatial representation enrichment for vision-and-language navigation},
+  author={Zhang, Xuesong and Xu, Yunbo and Li, Jia and Liu, Ruonan and Hu, Zhenzhen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={22},
+  pages={18791--18799},
+  year={2026}
 }
-  ```
+```
 
 ## Acknowledgments
 Our code is based on [VLN-DUET](https://github.com/cshizhe/VLN-DUET) , partially referenced [Paonogen](https://github.com/jialuli-luka/PanoGen?tab=readme-ov-file) for caption and from [HAMT](https://github.com/cshizhe/VLN-HAMT/tree/main/preprocess) for extract view features. Thanks for their great works!

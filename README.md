@@ -46,7 +46,7 @@ python get_depth.py
 The ground truth depth image (undistorted_depth_images) is obtained from the [Matterport Simulator](https://github.com/peteanderson80/Matterport3DSimulator), and features are extracted through a. The code for each view is referenced from [HAMT](https://github.com/cshizhe/VLN-HAMT/tree/main/preprocess) and [here](https://github.com/zehao-wang/LAD/tree/main/preprocess)
 
 4. Download Caption R2R view (BLIP-2) from [caption.json](https://www.dropbox.com/scl/fo/v75w2i9rzogru1hkx47jy/ALgwgn3eXd0RzOnV0SdfKYo?dl=0&e=1&preview=captions.json&rlkey=l9ci5ez00j2c78x7kf4inpssz)
-5. Download checkpoints on three VLN tasks：SUSA 链接: [https://pan.baidu.com/s/1i5eldIr5kiodl7UUAhytaQ?pwd=yabc](https://pan.baidu.com/s/1i5eldIr5kiodl7UUAhytaQ?pwd=yabc) 提取码: yabc
+5. Download checkpoints on three VLN tasks：SUSA 链接: [https://pan.baidu.com/s/18x-3Z46NDXkzWlg6wTE5Xg?pwd=pmfc](https://pan.baidu.com/s/18x-3Z46NDXkzWlg6wTE5Xg?pwd=pmfc) 提取码: pmfc
 
 ## 3. Pretraining
 
